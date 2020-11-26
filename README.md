@@ -11,7 +11,7 @@ Instructions
 3.one you start please select the answer otherwise you cannot come to the same number again...
 
 Extra :
-   I developed a UI also for that assesment (If you interest i will give you ...) in my localhost its contain
+   I developed a UI also for that assesment (If you interest i will show you ...) in my localhost its contain
   
   students page,
   organisation page,
