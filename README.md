@@ -13,10 +13,10 @@ Instructions
 Extra :
    I developed a UI also for that assesment (If you interest i will give you ...) in my localhost its contain
   
-  students page
-  organisation page
-  Dynamic question creation page
-  Dynamic students username and password creasion
-  And question answer page
+  students page,
+  organisation page,
+  Dynamic question creation page,
+  Dynamic students username and password creation,
+  And question answer page.
   
   
