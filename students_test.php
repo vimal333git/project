@@ -15,6 +15,7 @@
 
 <script>
     $(document).ready(function () {
+        alert('Hi')
 
 //          question1||option1|option2|option3|option4||answeroption|||question2||option1|option2|option3|option4||answeroption
 
